@@ -16,7 +16,7 @@ This repository contains links to reproducible materials for papers and projects
 
 ## Papers, data, and code
 
-Castro, A. and Alburez-Gutierrez, D. (accepted). "North and South: Naming practices and the hidden dimension of global disparities in knowledge production." Proceedings of the National Academy of Sciences. Temporary DOI:[MPIDR-WP-2021-014](https://doi.org/10.4054/MPIDR-WP-2021-014).
+&nbsp;&nbsp;&nbsp; Castro, A. and Alburez-Gutierrez, D. (accepted). "North and South: Naming practices and the hidden dimension of global disparities in knowledge production." Proceedings of the National Academy of Sciences. Temporary DOI:[MPIDR-WP-2021-014](https://doi.org/10.4054/MPIDR-WP-2021-014).
 
 **Reproducible code**: https://github.com/alburezg/naming_practices_pnas
 
