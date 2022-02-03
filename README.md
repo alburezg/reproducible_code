@@ -1,6 +1,4 @@
-# Collection of reproducible resources for published work
-
-## About
+# Reproducible resources for published work
 
 *Diego Alburez-Gutierrez, PhD*
 
