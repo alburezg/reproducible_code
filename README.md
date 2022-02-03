@@ -12,12 +12,11 @@ Google scholar: [profile](https://scholar.google.com/citations?user=uyx520sAAAAJ
 
 *Updated Feb 2022*
 
-
-1. Castro, A. and Alburez-Gutierrez, D. (accepted). *North and South: Naming practices and the hidden dimension of global disparities in knowledge production.* Proceedings of the National Academy of Sciences. Temporary DOI:[MPIDR-WP-2021-014](https://doi.org/10.4054/MPIDR-WP-2021-014).
+Castro, A. and Alburez-Gutierrez, D. (accepted). "North and South: Naming practices and the hidden dimension of global disparities in knowledge production." Proceedings of the National Academy of Sciences. Temporary DOI:[MPIDR-WP-2021-014](https://doi.org/10.4054/MPIDR-WP-2021-014).
 
 **Reproducible code**: https://github.com/alburezg/naming_practices_pnas
 
-1. Williams, Iván and Diego Alburez-Gutierrez. (2021) *DemoKin: An R package to estimate kinship networks in stable and non-stable populations*. 
+Williams, Iván and Diego Alburez-Gutierrez. (2021) *DemoKin: An R package to estimate kinship networks in stable and non-stable populations*. 
 
 **Reproducible code**: https://github.com/IvanWilli/DemoKin
 
