@@ -14,7 +14,15 @@ This repository contains links to reproducible materials for papers and projects
 
 ## Papers, data, and code
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Castro, A. and Alburez-Gutierrez, D. (accepted). "North and South: Naming practices and the hidden dimension of global disparities in knowledge production." *Proceedings of the National Academy of Sciences*. Temporary DOI:[MPIDR-WP-2021-014](https://doi.org/10.4054/MPIDR-WP-2021-014).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Snyder, M., Alburez-Gutierrez, D., Williams, I., and Zagheni, E. (2022). "Estimates from 31 countries show the significant impact of COVID-19 excess mortality on the incidence of family bereavement." *Proceedings of the National Academy of Sciences*, 119 (26): e2202686119. DOI:[10.1073/pnas.2202686119](https://doi.org/10.1073/pnas.2202686119).
+
+**Reproducible code**: https://osf.io/jn2h9/?view_only=ce87de3c2310424da30bb3a520c4f0ce
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Stelter, R. and Alburez-Gutierrez, D. (2022). "Representativeness is crucial for inferring demographic processes from online genealogies: Evidence from lifespan dynamics." *Proceedings of the National Academy of Sciences*,  119(10): e2120455119. DOI:[10.1073/pnas.2120455119](https://doi.org/10.1073/pnas.2120455119).
+
+**Reproducible code**: https://osf.io/9gkmz/
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Castro, A. and Alburez-Gutierrez, D. (2022). "North and South: Naming practices and the hidden dimension of global disparities in knowledge production." *Proceedings of the National Academy of Sciences*. Temporary DOI:[MPIDR-WP-2021-014](https://doi.org/10.4054/MPIDR-WP-2021-014).
 
 **Reproducible code**: https://github.com/alburezg/naming_practices_pnas
 
